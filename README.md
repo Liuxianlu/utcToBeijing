@@ -40,3 +40,4 @@ console.log(utils.utcToBeijing('2020-05-08T04:25:44.000Z')); // 2020/05/08 12:25
 
 https://github.com/Liuxianlu/utcToBeijing
 
+https://ext.dcloud.net.cn/plugin?id=1778
